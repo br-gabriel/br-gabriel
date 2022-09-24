@@ -1,6 +1,8 @@
 ### Olá, Eu sou o Gabriel Feitosa! 👋
 <hr>
-![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Feitosa-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.google.com/)
+<a href="https://www.linkedin.com/in/gabriel-feitosa-3b9029193/" target="_blank">
+  <img src="https://img.shields.io/badge/-Gabriel%20Feitosa-0d39c3?style=flat-square&logo=Linkedin&logoColor=white">
+</a>
 
 * Aprendendo tecnologias que giram em torno da stack React/Node
 
