@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align="center" width="40" height="30"/>
 </a>
 <a href="https://styled-components.com" target="_blank">
-  <img src="https://styled-components.com/logo.png" align="center" width="40" height="30">
+  <img src="https://styled-components.com/logo.png" align="center" width="30" height="30" style="padding:10;">
 </a>
 
 <!---->
