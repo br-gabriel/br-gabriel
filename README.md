@@ -1,3 +1,6 @@
+<img align="right" src="https://user-images.githubusercontent.com/53658830/192072192-123203eb-9794-4bfe-a054-cc5f7953f982.png" width="400px"/>
+
+
 ### Olá, Eu sou o Gabriel Feitosa! 👋
 <hr>
 <a href="https://www.linkedin.com/in/gabriel-feitosa-3b9029193/" target="_blank">
