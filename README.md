@@ -1,16 +1,53 @@
-### Hi there 👋
+### Olá, Eu sou o Gabriel Feitosa! 👋
+<hr>
+![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Feitosa-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.google.com/)
 
-<!--
-**br-gabriel/br-gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Aprendendo tecnologias que giram em torno da stack React/Node
 
-Here are some ideas to get you started:
+* Atualmente estudando: Typescript e NextJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Email: contato.gabrielfeitosa@gmail.com
+
+### Ferramentas e tecnologias
+<hr>
+
+<!---->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" width="40" height="30"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" width="40" height="30"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="40" height="30"/>
+</a>
+
+<!---->
+<a href="https://pt-br.reactjs.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" width="40" height="30"/>
+</a>
+<a href="https://sass-lang.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align="center" width="40" height="30"/>
+</a>
+<a href="https://styled-components.com" target="_blank">
+  <img src="https://styled-components.com/logo.png" align="center" width="40" height="30">
+</a>
+
+<!---->
+<a href="https://nodejs.org/en/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" width="40" height="30"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="center" width="40" height="30"/>  
+</a>
+<a href="https://www.prisma.io" target="_blank">
+  <img src="https://website-v9.vercel.app/logo-white.svg" align="center" width="100" height="30"/>
+</a>
+
+<!---->
+<a href="https://git-scm.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" width="40" height="30"/>
+</a>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" align="center" width="40" height="30"/>
+</a>
