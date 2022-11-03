@@ -3,7 +3,7 @@
 
 ### Olá, Eu sou o Gabriel Feitosa! 👋
 <hr>
-<a href="https://www.linkedin.com/in/gabriel-feitosa-3b9029193/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-silva-feitosa/" target="_blank">
   <img src="https://img.shields.io/badge/-Gabriel%20Feitosa-0d39c3?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 
