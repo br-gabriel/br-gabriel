@@ -9,7 +9,7 @@
 
 * Aprendendo tecnologias que giram em torno da stack React/Node
 
-* Atualmente estudando: Typescript e NextJS
+* Atualmente estudando: React Native
 
 * Email: contato.gabrielfeitosa@gmail.com
 
