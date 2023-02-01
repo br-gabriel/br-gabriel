@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="center" width="40" height="30"/>  
 </a>
 <a href="https://www.prisma.io" target="_blank">
-  <img src="https://website-v9.vercel.app/logo-white.svg" align="center" width="100" height="30"/>
+  <img src="https://user-images.githubusercontent.com/53658830/215918078-f77d8d2c-e1bc-48af-a503-6bbb4f2948dc.png" align="center" width="100" height="30"/>
 </a>
 
 <!---->
