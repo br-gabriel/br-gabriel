@@ -26,6 +26,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="40" height="30"/>
 </a>
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" width="40" height="30"/>
+</a>
 
 <!---->
 <a href="https://pt-br.reactjs.org" target="_blank">
