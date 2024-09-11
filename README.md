@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/53658830/192117668-bdf00b10-26db-48cc-a709-9395b05dbf6e.png" width="350px"/>
+<!-- <img align="right" src="https://user-images.githubusercontent.com/53658830/192117668-bdf00b10-26db-48cc-a709-9395b05dbf6e.png" width="350px"/> -->
 
 
 ### Olá, Eu sou o Gabriel Feitosa! 👋
