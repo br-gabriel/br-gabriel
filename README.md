@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/-Gabriel%20Feitosa-0d39c3?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 
-* Aprendendo tecnologias que giram em torno da stack React/Node
+* Desenvolvedor focado na criação de sistemas web e aplicativos, explorando diversas tecnologias e arquiteturas.
 
-* Atualmente estudando: React Native
+* Atualmente estudando: Angular
 
 * Email: contato.gabrielfeitosa@gmail.com
 
