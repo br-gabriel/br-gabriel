@@ -9,7 +9,7 @@
 
 * Desenvolvedor focado na criação de sistemas web e aplicativos, explorando diversas tecnologias e arquiteturas.
 
-* Atualmente estudando: Elixir
+* Atualmente estudando: Flutter
 
 * Email: contato.gabrielfeitosa@gmail.com
 
