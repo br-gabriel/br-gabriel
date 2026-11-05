@@ -9,6 +9,8 @@
 
 **Desenvolvedor Full Stack Pleno** focado no ecossistema JavaScript/TypeScript, com experiência na construção de aplicações escaláveis, interfaces de alta performance e arquiteturas resilientes.
 
+<br>
+
 - 💼 Atualmente atuando no desenvolvimento de sistemas core de vendas, logística e finanças no **Grupo Pneufree**.
 - 🏗️ Desenvolvendo projetos próprios como o **Mastery** (app mobile gamificado para rastreamento de hábitos em Flutter) e o **Fast Paste** (extensão para Chrome focada em gerenciamento rápido de snippets de texto).
 - 🧠 Explorando: Spec-Driven Development (SDD), ferramentas avançadas de I.A. na engenharia de software e aprimoramento do inglês para o mercado internacional.
